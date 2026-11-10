@@ -1,0 +1,2 @@
+"setting","condition","n0","n1","shift","sigma","b_degree","p_degree","z_degree","d_D","d_tau","d_c","d_mu","d_arm"
+"setting1","tau_underfit",8000,800,0.75,0.333333333333333,6,2,0,28,6,1,28,28

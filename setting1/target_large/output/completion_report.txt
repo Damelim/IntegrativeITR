@@ -1,0 +1,10 @@
+Status: completed
+Case: setting1/target_large
+Expected fits: 7
+Completed: 7
+Optimizer warnings: 0
+Failed: 0
+Plot errors: 0
+Boundary seed: 1001
+Output: /Users/sunwoolim/Library/CloudStorage/GoogleDrive-96limtotoro@gmail.com/My Drive/research_integrativeITR/github/setting1/target_large/output
+Stationarity does not certify a global optimum.

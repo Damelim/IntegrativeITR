@@ -1,0 +1,9 @@
+"phase","seed","method","seconds"
+"backend_load",NA,"",0.00200000000040745
+"model_setup",NA,"",0.0200000000004366
+"data_and_test_basis",1001,"",0.0450000000000728
+"fit_and_evaluate",1001,"Wu2020",61.3959999999997
+"fit_and_evaluate",1001,"IP",9.07500000000073
+"fit_and_evaluate",1001,"CC",2.45599999999922
+"fit_and_evaluate",1001,"CC_DRGO",3.1880000000001
+"decision_boundary_plot",1001,"",0.997000000000298

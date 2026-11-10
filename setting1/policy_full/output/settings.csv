@@ -1,0 +1,2 @@
+"setting","condition","n0","n1","shift","sigma","b_degree","p_degree","z_degree","d_D","d_tau","d_c","d_mu","d_arm"
+"setting1","policy_full",8000,800,0.75,0.333333333333333,7,6,0,36,28,1,28,28

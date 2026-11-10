@@ -1,0 +1,8 @@
+"setting","condition","method","n_expected","n_available","n_completed","n_optimizer_warning","n_failed","mean_regret","sd_regret","replication_MCSE","mean_seconds"
+"setting1","baseline","WY",1,1,1,0,0,0.0088767269383377,NA,NA,0.418000000000575
+"setting1","baseline","Target",1,1,1,0,0,0.305780939930375,NA,NA,4.0600000000004
+"setting1","baseline","Pooled",1,1,1,0,0,0.291069621055766,NA,NA,5.75500000000011
+"setting1","baseline","Wu2020",1,1,1,0,0,0.00344431082272045,NA,NA,59.451
+"setting1","baseline","IP",1,1,1,0,0,0.000942580734044406,NA,NA,24.2950000000001
+"setting1","baseline","CC",1,1,1,0,0,0.00322420698254447,NA,NA,2.72500000000036
+"setting1","baseline","CC_DRGO",1,1,1,0,0,0.00282360046248472,NA,NA,3.45200000000023

@@ -1,0 +1,23 @@
+list(replications = 1, start_seed = 1001, cores = 2, methods = c("WY", 
+"Target", "Pooled", "Wu2020", "IP", "CC", "CC_DRGO"), output_folder = "output", 
+    setting = "setting1", condition = "target_large", output_directory = "/Users/sunwoolim/Library/CloudStorage/GoogleDrive-96limtotoro@gmail.com/My Drive/research_integrativeITR/github/setting1/target_large/output")
+
+R version 4.6.0 (2026-04-24)
+Platform: aarch64-apple-darwin23
+Running under: macOS Tahoe 26.3
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/Los_Angeles
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.6.0       parallel_4.6.0       tools_4.6.0          Rcpp_1.1.1-1.1       randomForest_4.7-1.2

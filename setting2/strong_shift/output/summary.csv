@@ -1,0 +1,8 @@
+"setting","condition","method","n_expected","n_available","n_completed","n_optimizer_warning","n_failed","mean_regret","sd_regret","replication_MCSE","mean_seconds"
+"setting2","strong_shift","WY",1,1,1,0,0,0.0518201495387032,NA,NA,0.809000000000196
+"setting2","strong_shift","Target",1,1,1,0,0,0.273927499670867,NA,NA,4.35199999999986
+"setting2","strong_shift","Pooled",1,1,1,0,0,0.243414498710523,NA,NA,4.45700000000033
+"setting2","strong_shift","Wu2020",1,1,1,0,0,0.010792286997853,NA,NA,61.3959999999997
+"setting2","strong_shift","IP",1,1,1,0,0,0.00263091100480738,NA,NA,9.07500000000073
+"setting2","strong_shift","CC",1,1,1,0,0,0.00500050450019674,NA,NA,2.45499999999993
+"setting2","strong_shift","CC_DRGO",1,1,1,0,0,0.00578498823491886,NA,NA,3.1880000000001
